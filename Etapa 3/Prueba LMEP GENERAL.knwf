@@ -1,4 +1,9 @@
+El proceso de análisis de las pruebas de la Ley de Marco de Empleo Público comenzó conectando el software KNIME 
+a los sistemas INTEGRA 1 y 2. Este paso se realizó para obtener las bases de pagos y anuales de los diferentes 
+Ministerios sujetos a análisis. Una vez obtenida esta información, se procedió a filtrar los nuevos ingresos 
+(a partir del 10 de marzo de 2023). El objetivo era verificar si a estos empleados se les asignó el salario global 
+definitivo de acuerdo con las escalas salariales establecidas por MIDEPLAN.
 
-El proceso de análisis de las pruebas de la Ley de Marco de Empleo Público comenzó conectando el software KNIME a los sistemas INTEGRA 1 y 2. Este paso se realizó para obtener las bases de pagos y anuales de los diferentes Ministerios sujetos a análisis. Una vez obtenida esta información, se procedió a filtrar los nuevos ingresos a partir del 10 de marzo de 2023. El objetivo era verificar si a estos empleados se les asignó el salario global definitivo de acuerdo con las escalas salariales establecidas por MIDEPLAN.
-
-Además, se llevó a cabo un filtro para identificar a los funcionarios que fueron ascendidos durante el año 2023. Esta acción se realizó con el propósito de comprobar que cumplieran con los requisitos establecidos en la Ley de Marco de Empleo Público, ajustándose a las disposiciones correspondientes en cada caso específico.
+Además, se llevó a cabo un filtro para identificar a los funcionarios que fueron ascendidos durante el año 2023. 
+Esta acción se realizó con el propósito de comprobar que cumplieran con los requisitos establecidos en la Ley de 
+Marco de Empleo Público, ajustándose a las disposiciones correspondientes en cada caso específico.
